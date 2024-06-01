@@ -66,6 +66,7 @@
         string[] parts = concatenado.Split(' ');
         Console.WriteLine(parts);
 
+        Console.WriteLine("fin programa");
 
 
         
